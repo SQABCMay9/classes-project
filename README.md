@@ -1,10 +1,11 @@
-#Basic Project
+#Classes Project
 
-*Java basic project structure*
+*Maven project which concentrates on Classes*
 
 **Java 7**
 
 * Java Application
 * Maven
+* JUnit
 
 [Jean-francois Nepton](http://sqasolution.com)
